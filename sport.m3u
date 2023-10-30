@@ -1,0 +1,56 @@
+#EXTM3U
+#EXTINF:-1 group-title="Ngoại Hạng Anh" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/37/Star-sports-select-1.png",Star Sports Select 1
+http://l1iptv.xyz:80/bLSQVAMunh/A4Bqh3wk26/15725
+#EXTINF:-1 group-title="Ngoại Hạng Anh" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3b/Star-sports-select-2.png",Star Sports Select 2
+http://l1iptv.xyz:80/bLSQVAMunh/A4Bqh3wk26/15726
+#EXTINF:-1 group-title="Ngoại Hạng Anh" tvg-id="canalsp1" tvg-logo="https://n-4-3.dcs.redcdn.pl/file/o2/n/edytorEPG/logo/logotype_66245.png",Canal+ Sport 1
+http://l1iptv.xyz:80/bLSQVAMunh/A4Bqh3wk26/830
+
+
+#EXTINF:-1 group-title="SPORT BE" tvg-id="eleven1" tvg-logo="https://r.dcs.redcdn.pl/https/o2/n/edytorEPG/logo/logotype_391293.png",Eleven Sports 1 BE
+http://l1iptv.xyz:80/bLSQVAMunh/A4Bqh3wk26/487
+#EXTINF:-1 group-title="SPORT BE" tvg-id="eleven2" tvg-logo="https://r.dcs.redcdn.pl/https/o2/n/edytorEPG/logo/logotype_391296.png",Eleven Sports 2 BE
+http://l1iptv.xyz:80/bLSQVAMunh/A4Bqh3wk26/496
+
+
+#EXTINF:-1 group-title="SPORT FR" tvg-id="rmcsport1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bf/Logo_RMC_Sport_2018.svg",RMC Sport 1 4K+
+http://l1iptv.xyz:80/bLSQVAMunh/A4Bqh3wk26/839
+#EXTINF:-1 group-title="SPORT FR" tvg-id="rmcsport2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bf/Logo_RMC_Sport_2018.svg",RMC Sport 2 4K+
+http://l1iptv.xyz:80/bLSQVAMunh/A4Bqh3wk26/840
+#EXTINF:-1 group-title="SPORT FR" tvg-id="rmcsport3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bf/Logo_RMC_Sport_2018.svg",RMC Sport 3 4K+
+http://l1iptv.xyz:80/bLSQVAMunh/A4Bqh3wk26/841
+#EXTINF:-1 group-title="SPORT FR" tvg-id="rmcsport4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bf/Logo_RMC_Sport_2018.svg",RMC Sport 4 4K+
+http://l1iptv.xyz:80/bLSQVAMunh/A4Bqh3wk26/842
+
+#EXTINF:-1 group-title="Sport Quốc Tế" tvg-logo="https://neotel.mk/wp-content/uploads/2021/02/arena_sport_1.png", ARENA SPORTS 1
+http://l1iptv.xyz:80/bLSQVAMunh/A4Bqh3wk26/13950
+#EXTINF:-1 group-title="Sport Quốc Tế" tvg-logo="https://www.tvarenasport.si/uploads/web/arenasport2.png", ARENA SPORTS 2
+http://l1iptv.xyz:80/bLSQVAMunh/A4Bqh3wk26/13952
+#EXTINF:-1 group-title="Sport Quốc Tế" tvg-logo="https://picon.pp.ua/arena-sport-3.png", ARENA SPORTS 3
+http://l1iptv.xyz:80/bLSQVAMunh/A4Bqh3wk26/13953
+#EXTINF:-1 group-title="Sport Quốc Tế" tvg-logo="https://toploni.com/wp-content/uploads/2022/10/529258_dreambox-sat.com_.png", ARENA SPORTS 4
+http://l1iptv.xyz:80/bLSQVAMunh/A4Bqh3wk26/13954
+#EXTINF:-1 group-title="Sport Quốc Tế" tvg-logo="https://toploni.com/wp-content/uploads/2022/10/arena_sport_5.png", ARENA SPORTS 5
+http://l1iptv.xyz:80/bLSQVAMunh/A4Bqh3wk26/13954
+
+
+#EXTINF:-1 group-title="SPORT DE" tvg-logo="http://148.251.19.24:89/DE-Logo/DE-Sport/dazn1.png", Dazn Bar 1 HD+
+http://l1iptv.xyz:80/bLSQVAMunh/A4Bqh3wk26/1162
+#EXTINF:-1 group-title="SPORT DE" tvg-logo="http://148.251.19.24:89/DE-Logo/DE-Sport/dazn1.png", Dazn Bar 2 HD+
+http://l1iptv.xyz:80/bLSQVAMunh/A4Bqh3wk26/1163
+#EXTINF:-1 group-title="SPORT DE" tvg-logo="http://148.251.19.24:89/DE-Logo/DE-Sport/eurosport1.png", Eurosport 1 4K+
+http://l1iptv.xyz:80/bLSQVAMunh/A4Bqh3wk26/562
+#EXTINF:-1 group-title="SPORT DE" tvg-logo="http://148.251.19.24:89/DE-Logo/DE-Sport/eurosport2.png", Eurosport 2 4K+
+http://l1iptv.xyz:80/bLSQVAMunh/A4Bqh3wk26/563
+
+
+#EXTINF:-1 group-title="Sport Quốc Tế" tvg-id="match" tvg-logo="https://new.matchtv.ru/assets/2305181729/images/channels/130.jpg",Match TV
+http://stream.cvmtv.site/Match?token=live
+#EXTINF:-1 group-title="Sport Quốc Tế" tvg-id="mf1" tvg-logo="https://new.matchtv.ru/assets/2305181729/images/channels/8.jpg",Match Futbol 1
+http://stream.cvmtv.site/MF1?token=live
+#EXTINF:-1 group-title="Sport Quốc Tế" tvg-id="mf2" tvg-logo="https://new.matchtv.ru/assets/2305181729/images/channels/14.jpg",Match Futbol 2
+http://stream.cvmtv.site/MF2?token=live
+#EXTINF:-1 group-title="Sport Quốc Tế" tvg-id="mf3" tvg-logo="https://new.matchtv.ru/assets/2305181729/images/channels/140.jpg",Match Futbol 3
+http://stream.cvmtv.site/MF3?token=live
+#EXTINF:-1 group-title="Sport Quốc Tế" tvg-id="" tvg-logo="https://new.matchtv.ru/assets/202308281003/images/channels/7.jpg",Match Premier
+http://stream.cvmtv.site/MPre?token=live
