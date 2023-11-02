@@ -1,10 +1,10 @@
 #EXTM3U
 #EXTINF:-1 group-title="Ngoại Hạng Anh" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/37/Star-sports-select-1.png",Star Sports Select 1
-http://l1iptv.xyz:80/bLSQVAMunh/A4Bqh3wk26/15725
+http://4connect.link:80/P4V8yniGB1/kyT86WlFjB/320714
 #EXTINF:-1 group-title="Ngoại Hạng Anh" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3b/Star-sports-select-2.png",Star Sports Select 2
-http://l1iptv.xyz:80/bLSQVAMunh/A4Bqh3wk26/15726
-#EXTINF:-1 group-title="Ngoại Hạng Anh" tvg-id="canalsp1" tvg-logo="https://n-4-3.dcs.redcdn.pl/file/o2/n/edytorEPG/logo/logotype_66245.png",Canal+ Sport 1
-http://l1iptv.xyz:80/bLSQVAMunh/A4Bqh3wk26/830
+http://4connect.link:80/P4V8yniGB1/kyT86WlFjB/320715
+#EXTINF:-1 group-title="Ngoại Hạng Anh" tvg-id="canalsp1" tvg-logo="http://kb007.xyz/picons/canalplus.png",Canal+ Premiere League FHD
+http://4connect.link:80/P4V8yniGB1/kyT86WlFjB/282174
 
 
 #EXTINF:-1 group-title="SPORT BE" tvg-id="eleven1" tvg-logo="https://r.dcs.redcdn.pl/https/o2/n/edytorEPG/logo/logotype_391293.png",Eleven Sports 1 BE
@@ -100,3 +100,15 @@ http://4connect.link:80/P4V8yniGB1/kyT86WlFjB/304106
 http://4connect.link:80/P4V8yniGB1/kyT86WlFjB/304105
 #EXTINF:-1 tvg-name="True Premiere Football 5 HD" tvg-logo="https://cms.dmpcdn.com/livetv/2022/01/12/25d3c980-7374-11ec-8066-ffb72c13e721_webp_320.png" group-title="True Sport TH",True Premiere Football 5 HD
 http://4connect.link:80/P4V8yniGB1/kyT86WlFjB/304104
+
+
+#EXTINF:-1 group-title="Match - Nga" tvg-id="match" tvg-logo="https://new.matchtv.ru/assets/2305181729/images/channels/130.jpg",Match TV
+http://4connect.link:80/P4V8yniGB1/kyT86WlFjB/1210
+#EXTINF:-1 group-title="Match - Nga" tvg-id="mf1" tvg-logo="https://new.matchtv.ru/assets/2305181729/images/channels/8.jpg",Match Futbol 1
+http://4connect.link:80/P4V8yniGB1/kyT86WlFjB/7894
+#EXTINF:-1 group-title="Match - Nga" tvg-id="mf2" tvg-logo="https://new.matchtv.ru/assets/2305181729/images/channels/14.jpg",Match Futbol 2
+http://4connect.link:80/P4V8yniGB1/kyT86WlFjB/7895
+#EXTINF:-1 group-title="Match - Nga" tvg-id="mf3" tvg-logo="https://new.matchtv.ru/assets/2305181729/images/channels/140.jpg",Match Futbol 3
+http://4connect.link:80/P4V8yniGB1/kyT86WlFjB/7896
+#EXTINF:-1 group-title="Match - Nga" tvg-id="" tvg-logo="https://new.matchtv.ru/assets/202308281003/images/channels/7.jpg",Match Premier
+http://4connect.link:80/P4V8yniGB1/kyT86WlFjB/7898
