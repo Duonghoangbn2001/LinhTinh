@@ -44,13 +44,46 @@ http://l1iptv.xyz:80/bLSQVAMunh/A4Bqh3wk26/562
 http://l1iptv.xyz:80/bLSQVAMunh/A4Bqh3wk26/563
 
 
-#EXTINF:-1 group-title="Sport Quốc Tế" tvg-id="match" tvg-logo="https://new.matchtv.ru/assets/2305181729/images/channels/130.jpg",Match TV
-http://stream.cvmtv.site/Match?token=live
-#EXTINF:-1 group-title="Sport Quốc Tế" tvg-id="mf1" tvg-logo="https://new.matchtv.ru/assets/2305181729/images/channels/8.jpg",Match Futbol 1
-http://stream.cvmtv.site/MF1?token=live
-#EXTINF:-1 group-title="Sport Quốc Tế" tvg-id="mf2" tvg-logo="https://new.matchtv.ru/assets/2305181729/images/channels/14.jpg",Match Futbol 2
-http://stream.cvmtv.site/MF2?token=live
-#EXTINF:-1 group-title="Sport Quốc Tế" tvg-id="mf3" tvg-logo="https://new.matchtv.ru/assets/2305181729/images/channels/140.jpg",Match Futbol 3
-http://stream.cvmtv.site/MF3?token=live
-#EXTINF:-1 group-title="Sport Quốc Tế" tvg-id="" tvg-logo="https://new.matchtv.ru/assets/202308281003/images/channels/7.jpg",Match Premier
-http://stream.cvmtv.site/MPre?token=live
+
+#EXTINF:-1 tvg-name="Bein Sports 1 HD (EN)" tvg-logo="http://kb007.xyz/picons/Beinsports1.png" group-title="Bein Sport AR",Bein Sports 1 HD (EN)
+http://4connect.link:80/P4V8yniGB1/kyT86WlFjB/93738
+#EXTINF:-1 tvg-name="Bein Sports 2 HD (EN)" tvg-logo="http://kb007.xyz/picons/Beinsports2.png" group-title="Bein Sport AR",Bein Sports 2 HD (EN)
+http://4connect.link:80/P4V8yniGB1/kyT86WlFjB/51907
+#EXTINF:-1 tvg-name="Bein Sports 3 HD (EN)" tvg-logo="http://kb007.xyz/picons/Beinsports3.png" group-title="Bein Sport AR",Bein Sports 3 HD (EN)
+http://4connect.link:80/P4V8yniGB1/kyT86WlFjB/8592
+#EXTINF:-1 tvg-name="Bein Sports 4 HD (EN)" tvg-logo="http://kb007.xyz/picons/Beinsports1.png" group-title="Bein Sport AR",Bein Sports 4 HD (EN)
+http://4connect.link:80/P4V8yniGB1/kyT86WlFjB/51914
+#EXTINF:-1 tvg-name="Bein Sports NBA FHD" tvg-logo="http://kb007.xyz/picons/Beinsports.png" group-title="Bein Sport AR",Bein Sports NBA FHD
+http://4connect.link:80/P4V8yniGB1/kyT86WlFjB/290637
+#EXTINF:-1 tvg-name="[AR] Bein Sports Global FHD [Multi Audio]" tvg-logo="http://kb007.xyz/picons/Beinsports.png" group-title="Bein Sport",[AR] Bein Sports Global FHD [Multi Audio]
+http://4connect.link:80/P4V8yniGB1/kyT86WlFjB/3094
+
+
+#EXTINF:-1 tvg-name="Astro Supersport 1 FHD" tvg-logo="http://gg.gg/astrosuper" group-title="Astro Sport Malay" Astro Supersport 1 FHD
+http://4connect.link:80/P4V8yniGB1/kyT86WlFjB/161931
+#EXTINF:-1 tvg-name="Astro Supersport 2 FHD" tvg-logo="http://gg.gg/astrosuper" group-title="Astro Sport Malay" Astro Supersport 2 FHD
+http://4connect.link:80/P4V8yniGB1/kyT86WlFjB/161932
+#EXTINF:-1 tvg-name="Astro Supersport 3 FHD" tvg-logo="http://gg.gg/astrosuper" group-title="Astro Sport Malay" Astro Supersport 3 FHD
+http://4connect.link:80/P4V8yniGB1/kyT86WlFjB/161933
+#EXTINF:-1 tvg-name="Astro EPL 1 FHD (live event)" tvg-logo="http://gg.gg/astrosuper" group-title="Astro Sport Malay" Astro EPL 1 FHD (live event)
+http://4connect.link:80/P4V8yniGB1/kyT86WlFjB/161935
+#EXTINF:-1 tvg-name="Astro EPL 2 FHD (Live event)" tvg-logo="http://gg.gg/astrosuper" group-title="Astro Sport Malay" Astro EPL 2 FHD (Live event)
+http://4connect.link:80/P4V8yniGB1/kyT86WlFjB/161936
+#EXTINF:-1 tvg-name="Astro EPL 3 FHD (Live event)" tvg-logo="http://gg.gg/astrosuper" group-title="Astro Sport Malay" Astro EPL 3 FHD (Live event)
+http://4connect.link:80/P4V8yniGB1/kyT86WlFjB/161937
+
+
+#EXTINF:-1 tvg-name="HK: Now Sports 1 FHD" tvg-logo="http://gg.gg/nowsport" group-title="Now Sport HK" Now Sports 1 FHD
+http://4connect.link:80/P4V8yniGB1/kyT86WlFjB/246323
+#EXTINF:-1 tvg-name="HK: Now Sports 2 FHD" tvg-logo="http://gg.gg/nowsport" group-title="Now Sport HK" Now Sports 2 FHD
+http://4connect.link:80/P4V8yniGB1/kyT86WlFjB/246324
+#EXTINF:-1 tvg-name="HK: Now Sports 3 FHD" tvg-logo="http://gg.gg/nowsport" group-title="Now Sport HK" Now Sports 3 FHD
+http://4connect.link:80/P4V8yniGB1/kyT86WlFjB/200224
+#EXTINF:-1 tvg-name="HK: Now Sports 4 FHD" tvg-logo="http://gg.gg/nowsport" group-title="Now Sport HK" Now Sports 4 FHD
+http://4connect.link:80/P4V8yniGB1/kyT86WlFjB/246325
+#EXTINF:-1 tvg-name="HK: Now Sports 5 FHD" tvg-logo="http://gg.gg/nowsport" group-title="Now Sport HK" Now Sports 5 FHD
+http://4connect.link:80/P4V8yniGB1/kyT86WlFjB/246326
+#EXTINF:-1 tvg-name="HK: Now Sports 6 FHD" tvg-logo="http://gg.gg/nowsport" group-title="Now Sport HK" Now Sports 6 FHD
+http://4connect.link:80/P4V8yniGB1/kyT86WlFjB/246327
+#EXTINF:-1 tvg-name="HK: Now Sports 7 FHD" tvg-logo="http://gg.gg/nowsport" group-title="Now Sport HK" Now Sports 7 FHD
+http://4connect.link:80/P4V8yniGB1/kyT86WlFjB/246328
