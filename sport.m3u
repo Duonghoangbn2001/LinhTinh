@@ -62,9 +62,9 @@ http://l1iptv.xyz:80/bLSQVAMunh/A4Bqh3wk26/13954
 
 
 #EXTINF:-1 group-title="Sport DE" tvg-logo="http://148.251.19.24:89/DE-Logo/DE-Sport/dazn1.png", Dazn Bar 1 HD+
-http://4connect.link:80/P4V8yniGB1/kyT86WlFjB/91437
+http://magi-stv.net:8080/2002ANIOSDMEX/hjWHCUnddmjK/223949
 #EXTINF:-1 group-title="Sport DE" tvg-logo="http://148.251.19.24:89/DE-Logo/DE-Sport/dazn2.png", Dazn Bar 2 HD+
-http://4connect.link:80/P4V8yniGB1/kyT86WlFjB/91438
+http://magi-stv.net:8080/2002ANIOSDMEX/hjWHCUnddmjK/223950
 #EXTINF:-1 group-title="Sport DE" tvg-logo="http://148.251.19.24:89/DE-Logo/DE-Sport/eurosport1.png", Eurosport 1 4K+
 http://a.torofuerte.link:9966/live/fibra93/6pltj47Nff/66428.ts
 #EXTINF:-1 group-title="Sport DE" tvg-logo="http://148.251.19.24:89/DE-Logo/DE-Sport/eurosport2.png", Eurosport 2 4K+
@@ -194,3 +194,9 @@ http://ultrapremium.cloud:8080/sebagonserrano/T6568723597/31734
 http://ultrapremium.cloud:8080/sebagonserrano/T6568723597/31735
 #EXTINF:-1  tvg-name="TSN 4 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/TSN4.svg/2560px-TSN4.svg.png" group-title="Sport CA",CA: TSN 4 FHD
 http://ultrapremium.cloud:8080/sebagonserrano/T6568723597/31736
+
+
+#EXTINF:-1 group-title="Sport US" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/2015_Fox_Sports_1_logo.svg/1200px-2015_Fox_Sports_1_logo.svg.png",FS1
+http://1tv41.icu:8080/ejP3wS/861349/1846
+#EXTINF:-1 group-title="Sport US" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/FS2_logo_2015.svg/1200px-FS2_logo_2015.svg.png",FS2
+http://1tv41.icu:8080/ejP3wS/861349/1847
