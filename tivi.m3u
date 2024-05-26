@@ -714,7 +714,7 @@ https://oipf0znpmnliv.vcdn.cloud/hls/planetearth/index.m3u8
 #EXTINF:-1 tvg-id="woman" group-title="📦| In The Box" tvg-logo="https://cdn.hqth.me/logo/thumbs/195.png", Woman
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://oipf0znpmnliv.vcdn.cloud/hls/woman/index.m3u8
-#EXTINF:-1 tvg-id="axnhd" group-title=""📦| In The Box"" tvg-logo="https://cdn.hqth.me/logo/thumbs/227.png", AXN HD
+#EXTINF:-1 tvg-id="axnhd" group-title="📦| In The Box" tvg-logo="https://cdn.hqth.me/logo/thumbs/227.png", AXN HD
 https://hoangdev.pro/tonghop/onsport+.php
 
 #EXTINF:-1 group-title="🇻🇳| Thiết Yếu" tvg-logo="https://i.imgur.com/lARtNRO.png",VOVTV HD
