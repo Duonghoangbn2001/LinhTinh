@@ -546,6 +546,18 @@ https://vc.101vn.com/htv/htvcmb.php?id=2667
 http://171.238.180.25:18080/304.m3u8
 #EXTINF:-1 group-title="🇻🇳| HTV" tvg-logo="https://i.imgur.com/cQZkjst.png",HTV CO.OP
 https://1011154949.vnns.net/CDN-FPT02/HTVCOOP-SD-ABR/playlist.m3u8
+#EXTINF:-1 group-title="🇻🇳| HTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/48.png",HTV2
+https://hoangdev.pro/htv/htv2.php
+#EXTINF:-1 group-title="🇻🇳| HTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/49.png",HTV3 
+#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
+https://hoangdev.pro/htv/htv3.php
+#EXTINF:-1 group-title="🇻🇳| HTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/50.png",HTV Key
+https://hoangdev.pro/htv/htv4.php
+ #EXTINF:-1 group-title="🇻🇳| HTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/51.png",HTV7 
+https://hoangdev.pro/htv/htv7.php
+#EXTINF:-1 group-title="🇻🇳| HTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/52.png",HTV9 
+https://hoangdev.pro/htv/htv9.php
+
 
 #EXTINF:0 tvg-id="htvccanhachd" group-title="🇻🇳| HTVC" group-logo="https://phuhdtv.github.io/thumbs/Groups/HTVC.png" tvg-logo="https://i.imgur.com/ZHVkEIC.png",HTVC Ca Nhạc
 https://1011154949.vnns.net/CDN-FPT02/HTVC-CANHAC-HD-1080p/playlist.m3u8
