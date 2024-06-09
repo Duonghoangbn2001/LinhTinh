@@ -423,7 +423,7 @@ https://tth.vn/VTC8
 #EXTINF:-1 tvg-id="vtc9hd" group-title="🇻🇳| VTC" tvg-logo="https://cdn.hqth.me/logo/thumbs/40.png" ,VTC9 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://tth.vn/VTC9
-#EXTINF:-1 tvg-id="vtc10" group-title="🇻🇳| VTC" tvg-logo="https://cdn.hqth.me/logo/thumbs/41.png" , TC10 HD
+#EXTINF:-1 tvg-id="vtc10" group-title="🇻🇳| VTC" tvg-logo="https://cdn.hqth.me/logo/thumbs/41.png" , VTC10 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 http://xkiwi.sytes.net:5050/rtp/232.84.3.87:11530
 #EXTINF:-1 tvg-id="vtc11" group-title="🇻🇳| VTC" tvg-logo="https://cdn.hqth.me/logo/thumbs/42.png" ,VTC11
