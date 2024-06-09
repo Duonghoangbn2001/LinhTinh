@@ -407,43 +407,43 @@ https://hoangdev.pro/vtv/vtv9.php
 
 #EXTINF:-1 tvg-id="vtc1" group-title="🇻🇳| VTC" tvg-logo="https://cdn.hqth.me/logo/thumbs/32.png" ,VTC1 HD
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-https://liveh12.vtvcab.vn/hls/ONVTC1_CL/01.m3u8
+https://tth.vn/vtc1-hd
 #EXTINF:-1 tvg-id="vtc2" group-title="🇻🇳| VTC" tvg-logo="https://cdn.hqth.me/logo/thumbs/33.png" ,VTC2
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-https://tth.vn/VTC2
+https://tth.vn/vtc2-hd
 #EXTINF:-1 tvg-id="vtc3" group-title="🇻🇳| VTC" tvg-logo="https://cdn.hqth.me/logo/thumbs/34.png" ,VTC3
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://tth.vn/VTC3
+https://tth.vn/vtc3-hd
 #EXTINF:-1 tvg-id="vtc4hd" group-title="🇻🇳| VTC" tvg-logo="https://cdn.hqth.me/logo/thumbs/35.png" ,VTC4 HD
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-https://tth.vn/VTC4
+https://tth.vn/vtc3-hd
 #EXTINF:-1 tvg-id="vtc5hd" group-title="🇻🇳| VTC" tvg-logo="https://cdn.hqth.me/logo/thumbs/36.png" ,VTC5 HD
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-https://tth.vn/VTC5
+https://tth.vn/vtc4-hd
 #EXTINF:-1 tvg-id="vtc6hd" group-title="🇻🇳| VTC" tvg-logo="https://cdn.hqth.me/logo/thumbs/37.png" ,VTC6 HD
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-https://tth.vn/vtc6
+https://tth.vn/vtc6-hd
 #EXTINF:-1 tvg-id="vtc7hd" group-title="🇻🇳| VTC" tvg-logo="https://cdn.hqth.me/logo/thumbs/38.png" ,VTC7 HD - TodayTV
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
 https://tth.vn/VTC7
 #EXTINF:-1 tvg-id="vtc8" group-title="🇻🇳| VTC" tvg-logo="https://cdn.hqth.me/logo/thumbs/39.png" ,VTC8
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-https://tth.vn/VTC8
+https://tth.vn/vtc8-hd
 #EXTINF:-1 tvg-id="vtc9hd" group-title="🇻🇳| VTC" tvg-logo="https://cdn.hqth.me/logo/thumbs/40.png" ,VTC9 HD
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-https://tth.vn/VTC9
-#EXTINF:-1 tvg-id="vtc10" group-title="🇻🇳| VTC" tvg-logo="https://cdn.hqth.me/logo/thumbs/41.png" , VTC10 HD
+https://tth.vn/vtc9-hd
+#EXTINF:-1 tvg-id="vtc10" group-title="🇻🇳| VTC" tvg-logo="https://cdn.hqth.me/logo/thumbs/41.png" ,VTC10 HD
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-http://xkiwi.sytes.net:5050/rtp/232.84.3.87:11530
+https://tth.vn/vtc10-hd
 #EXTINF:-1 tvg-id="vtc11" group-title="🇻🇳| VTC" tvg-logo="https://cdn.hqth.me/logo/thumbs/42.png" ,VTC11
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-https://tth.vn/VTC11
+https://tth.vn/vtc11-hd
 #EXTINF:-1 tvg-id="vtc14hd" group-title="🇻🇳| VTC" tvg-logo="https://cdn.hqth.me/logo/thumbs/45.png" ,VTC14 HD
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-https://tth.vn/grfh
+https://tth.vn/vtc14-hd
 #EXTINF:-1 tvg-id="vtc16" group-title="🇻🇳| VTC" tvg-logo="https://cdn.hqth.me/logo/thumbs/46.png" ,VTC16 HD
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-https://tth.vn/VTC16
+https://tth.vn/vtc16-hd
 
 #EXTINF:-1 tvg-id="vtc1hd" group-title="🇻🇳| VTC Dự Phòng" tvg-logo="https://i.imgur.com/fgOpl32.png",VTC1
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
