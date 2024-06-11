@@ -171,6 +171,8 @@ https://liveflv-cakhia.cdnlive.pro/live/stream_1_a86e6@luluhd1.flv
 https://liveflv-cakhia.cdnlive.pro/live/stream_1_a86e6@lanhd1.flv
 #EXTINF:-1 group-title="⚽|CaKhia TV" tvg-logo="http://cakhiastatic.fastlycdnlive.xyz/cakhia/rakhoi3/template/user/img/rakhoi.png",BLV Giàng A Cỏ
 https://liveflv-cakhia.cdnlive.pro/live/stream_1_a86e6@cohd1.flv
+#EXTINF:-1 group-title="⚽|CaKhia TV" tvg-logo="http://cakhiastatic.fastlycdnlive.xyz/cakhia/rakhoi3/template/user/img/rakhoi.png",BLV Giàng A Lử
+https://liveflv-cakhia.cdnlive.pro/live/stream_1_a86e6@luhd1.flv
 
 #----------*-TTBĐ TV-*----------#
 
@@ -333,21 +335,21 @@ https://liveh34.vtvcab.vn/hls/ONSPORT010/index.m3u8
 #----------*-VTV-*----------#
 
 #EXTINF:-1 tvg-id="vtv1hd" group-title="🇻🇳| VTV" tvg-logo="https://i.imgur.com/nfkmvAY.png",VTV1
-http://171.238.181.52:18080/154_2.m3u8?AdaptiveType=HLS
+http://171.238.180.25:18080/154.m3u8
 #EXTINF:-1 tvg-id="vtv2hd" group-title="🇻🇳| VTV" tvg-logo="https://i.imgur.com/BVwi3K3.png",VTV2
-http://171.238.180.25:18080/192_2.m3u8?AdaptiveType=HLS
+http://171.238.180.25:18080/192.m3u8
 #EXTINF:-1 tvg-id="vtv3hd" group-title="🇻🇳| VTV" tvg-logo="https://i.imgur.com/7rLCvgS.png",VTV3
-http://171.238.180.25:18080/155_2.m3u8?AdaptiveType=HLS
+http://171.238.180.25:18080/155.m3u8
 #EXTINF:-1 tvg-id="vtv4hd" group-title="🇻🇳| VTV" tvg-logo="https://i.imgur.com/9zVTtsA.png",VTV4
 http://s4.nihontv.net:21585/vtv4/index.m3u8
 #EXTINF:-1 tvg-id="vtv5hd" group-title="🇻🇳| VTV" tvg-logo="https://i.imgur.com/7qPKNFU.png",VTV5
-http://171.238.181.52:18080/194_2.m3u8?AdaptiveType=HLS
+http://171.238.180.25:18080/194.m3u8
 #EXTINF:-1 tvg-id="vtv5hdtnb" group-title="🇻🇳| VTV" tvg-logo="https://i.imgur.com/mIUWkDx.png",VTV5 Tây Nam Bộ
-http://171.238.181.52:18080/307_2.m3u8?AdaptiveType=HLS
+http://171.238.181.52:18080/307.m3u8
 #EXTINF:-1 tvg-id="vtv5hdtn" group-title="🇻🇳| VTV" tvg-logo="https://i.imgur.com/R8c2swd.png",VTV5 Tây Nguyên
-http://171.238.181.52:18080/308_2.m3u8?AdaptiveType=HLS
+http://171.238.180.25:18080/308.m3u8
 #EXTINF:-1 tvg-id="vtv6hd" group-title="🇻🇳| VTV" tvg-logo="https://i.imgur.com/HCpqatZ.png",VTV Cần Thơ
-http://171.238.181.52:18080/156_2.m3u8?AdaptiveType=HLS
+http://171.238.181.52:18080/156.m3u8
 #EXTINF:-1 tvg-id="vtv7hd" group-title="🇻🇳| VTV" tvg-logo="https://i.imgur.com/AgamSNe.png",VTV7
 https://s12.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e2.endpoint.cdn.sctvonline.vn/nginx.s12.edge.cdn.sctvonline.vn/hls/vtv7/index.m3u8
 #EXTINF:-1 tvg-id="vtv8hd" group-title="🇻🇳| VTV" tvg-logo="https://i.imgur.com/lpcltL9.png",VTV8
